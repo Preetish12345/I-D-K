@@ -41,4 +41,4 @@ if keyboard.is_pressed('q') == False:
 #                    print(Y)
 #                    break
 
-# editor notes
+# editor
